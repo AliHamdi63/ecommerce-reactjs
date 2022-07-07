@@ -1,0 +1,118 @@
+[
+  {
+    "id": 0,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/homepage/08/shop8_home_slide1.jpg",
+    "type": ["SLIDER"]
+  },
+  {
+    "id": 1,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/homepage/08/shop8_home_slide2.jpg",
+    "type": ["SLIDER"]
+  },
+  {
+    "id": 2,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/homepage/08/shop8_home_banner1.jpg",
+    "type": ["ROOM"],
+    "search": "PRODUCT",
+    "name": "LIVING ROOM",
+    "head": "SHOP LIVING ROOM",
+    "price": 999,
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/homepage/08/shop8_home_banner2.jpg",
+    "search": "PRODUCT",
+    "type": ["ROOM"],
+    "head": "SHOP DINNING ROOM",
+    "name": "DINNING ROOM",
+    "price": 899,
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/homepage/08/shop8_home_banner3.jpg",
+    "search": "PRODUCT",
+    "type": ["ROOM"],
+    "head": "SHOP BEDROOM",
+    "name": "BEDROOM",
+    "price": 799,
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/catalog/product/cache/1ab48d32e9bd277ac1c930b6b5f97eee/s/h/shop8_product3_1.jpeg",
+    "search": "PRODUCT",
+    "type": ["FEATURED-PRODUCTS", "BEST-SELLING-PRODUCTS", "LATEST-PRODUCTS"],
+    "name": "Brown Leather Sofa",
+    "price": 199,
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/catalog/product/cache/1ab48d32e9bd277ac1c930b6b5f97eee/s/h/shop8_product2.jpeg",
+    "search": "PRODUCT",
+    "type": ["FEATURED-PRODUCTS", "TOP-RATED-PRODUCTS"],
+    "name": "Sofa",
+    "price": 1699,
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/catalog/product/cache/1ab48d32e9bd277ac1c930b6b5f97eee/s/h/shop8_product1.jpeg",
+    "search": "PRODUCT",
+    "type": ["FEATURED-PRODUCTS"],
+    "name": "Red Chair",
+    "price": 299,
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/catalog/product/cache/1ab48d32e9bd277ac1c930b6b5f97eee/s/h/shop8_product8.jpeg",
+    "search": "PRODUCT",
+    "type": ["FEATURED-PRODUCTS", "TOP-RATED-PRODUCTS"],
+    "name": "Simple Chair",
+    "price": 299,
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/catalog/product/cache/1ab48d32e9bd277ac1c930b6b5f97eee/s/h/shop8_product7.jpeg",
+    "search": "PRODUCT",
+    "type": ["FEATURED-PRODUCTS", "LATEST-PRODUCTS"],
+    "name": "Leather Chair",
+    "price": 55,
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/catalog/product/cache/1ab48d32e9bd277ac1c930b6b5f97eee/s/h/shop8_product5_2.jpeg",
+    "search": "PRODUCT",
+    "type": ["FEATURED-PRODUCTS", "BEST-SELLING-PRODUCTS", "LATEST-PRODUCTS"],
+    "name": "Headphone Black",
+    "price": 299,
+    "quantity": 1
+  },
+  {
+    "id": 11,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/catalog/product/cache/1ab48d32e9bd277ac1c930b6b5f97eee/s/h/shop8_product6_1.jpeg",
+    "search": "PRODUCT",
+    "type": [
+      "FEATURED-PRODUCTS",
+      "BEST-SELLING-PRODUCTS",
+      "TOP-RATED-PRODUCTS"
+    ],
+    "name": "Porto Both Sticky Info",
+    "price": 39,
+    "quantity": 1
+  },
+  {
+    "id": 12,
+    "url": "https://www.portotheme.com/magento2/porto/pub/media/catalog/product/cache/1ab48d32e9bd277ac1c930b6b5f97eee/s/h/shop8_product4.jpeg",
+    "search": "PRODUCT",
+    "type": ["FEATURED-PRODUCTS"],
+    "name": "Porto Sports Shoes",
+    "price": 101,
+    "quantity": 1
+  }
+]

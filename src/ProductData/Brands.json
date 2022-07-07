@@ -1,0 +1,32 @@
+[
+    {
+        "id":0,
+        "url":"https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/brands/new_brand1.png",
+        "type":"BRAND"
+    },
+    {
+        "id":1,
+        "url":"https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/brands/new_brand2.png",
+        "type":"BRAND"
+    },
+    {
+        "id":2,
+        "url":"https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/brands/new_brand3.png",
+        "type":"BRAND"
+    },
+    {
+        "id":3,
+        "url":"https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/brands/new_brand4.png",
+        "type":"BRAND"
+    },
+    {
+        "id":4,
+        "url":"https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/brands/new_brand5.png",
+        "type":"BRAND"
+    },
+    {
+        "id":5,
+        "url":"https://www.portotheme.com/magento2/porto/pub/media/wysiwyg/smartwave/porto/brands/new_brand6.png",
+        "type":"BRAND"
+    }
+]
