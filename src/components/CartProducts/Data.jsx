@@ -8,9 +8,6 @@ function Data(props) {
   // console.log(props)
   let { countData, remove, plus, minus } = props;
 
-  // let data = localStorage.getItem("data");
-  // console.log(JSON.parse(data));
-  // let myProducts = JSON.parse(data);
 
   function clear() {
     localStorage.clear();
